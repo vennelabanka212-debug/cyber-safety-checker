@@ -1,16 +1,34 @@
 # Cyber Safety Checker 🛡️
 
-A beginner-friendly project to help students learn basic cybersecurity safety.
+A beginner-friendly Python project that helps students learn and practice basic cybersecurity safety.
 
-## Features
-- Password safety tips
-- Phishing awareness
-- Basic cybersecurity checks
-- Simple security guidance
+## 📌 About the Project
 
-## Purpose
-This project is created as a beginner cybersecurity project to spread awareness about safe online practices.
+Cyber Safety Checker is designed to spread awareness about safe online practices. It provides simple cybersecurity checks and guidance that beginners can easily understand.
 
-## Technologies
+## ✨ Features
+
+- 🔐 Password strength checker
+- 🎣 Phishing awareness
+- 🛡️ Basic cybersecurity safety checks
+- 💡 Simple online security tips
+- 👨‍💻 Beginner-friendly Python project
+
+## 🎯 Purpose
+
+The main purpose of this project is to help students understand basic cybersecurity concepts and develop safe online habits.
+
+## 🛠️ Technologies Used
+
 - Python
 - GitHub
+
+## ▶️ How to Run
+
+1. Download or clone this repository.
+2. Make sure Python is installed on your computer.
+3. Open the project folder in a terminal.
+4. Run the following command:
+
+```bash
+python cyber_safety_checker.py
