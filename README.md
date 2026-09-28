@@ -22,6 +22,25 @@ The main purpose of this project is to help students understand basic cybersecur
 
 - Python
 - GitHub
+- ## 📚 What I Learned
+
+Through this project, I learned:
+
+- Python programming basics
+- Password security concepts
+- Phishing awareness
+- Basic cybersecurity practices
+- How to use GitHub for project development
+
+## ⚠️ Disclaimer
+
+This project is created for educational and cybersecurity awareness purposes. It does not replace professional cybersecurity tools or security advice.
+
+## 👩‍💻 Author
+
+**Vennela Banka**
+
+B.Tech Computer Science Student
 
 ## ▶️ How to Run
 
